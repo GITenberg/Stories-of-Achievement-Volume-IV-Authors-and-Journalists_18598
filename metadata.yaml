@@ -1,0 +1,32 @@
+_repo: Stories-of-Achievement-Volume-IV-Authors-and-Journalists_18598
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Dickinson, Asa Don
+    birthdate: 1876
+    deathdate: 1960
+    gutenberg_agent_id: '1678'
+    url: http://www.gutenberg.org/2009/agents/1678
+description: ''
+gutenberg_issued: '2006-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18598'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Biography'
+- !lcc 'CT'
+- !lcsh 'Success'
+tableOfContents: The Man to Whom Expression was Travail, Rousseau -- The Ploughman-poet,
+  Burns -- How the Farm-boy Became an Editor, Greeley -- The Factory Boy, Dickens
+  -- The Country Parson's Daughter, Bronte -- The Journal of a Brave and Talented
+  Girl, Alcott -- The Troubles of a Job Printer, George -- "The Making of an American",
+  Riis -- Rejected Manuscripts, Rideling -- How She Learned to Speak, Keller.
+title: Stories of Achievement, Volume IV, Authors and Journalists
+url: http://www.gutenberg.org/ebooks/18598

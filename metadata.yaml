@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '1678'
     url: http://www.gutenberg.org/2009/agents/1678
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18598#Stories-of-Achievement-Volume-IV-Authors-and-Journalists
 gutenberg_issued: '2006-06-15'
 gutenberg_type: Text
 identifiers:
